@@ -1,0 +1,22 @@
+body{
+padding: 0;
+margin: 0;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+background: linear-gradient(to bottom, skyblue, lightgreen);
+height: 100vh;
+}
+
+.container {
+margin: 60px;
+background-color: rgba(255, 255, 255, .3);
+padding: 20px;
+border-radius: 10px;
+text-align: center;
+}
+.input-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
